@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#aed004",
+    "titleBar.inactiveBackground": "#aed004",
+    "titleBar.border": "#02f18e"
+  },
+  "explorer.compactFolders": false,
+  "prettier.printWidth": 80,
+  "git.ignoreLimitWarning": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}

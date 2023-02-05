@@ -1,0 +1,7 @@
+---
+trailingComma: es5
+tabWidth: 2
+semi: true
+sigleQuote: true
+printWidth: 120
+endOfLine: lf
